@@ -1,0 +1,5 @@
+fastapi
+redis
+arq
+uvicorn
+dotenv
